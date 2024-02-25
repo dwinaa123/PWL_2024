@@ -3,10 +3,10 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>PWAL 2024</title>
+        <title>PWL 2024</title>
     </head>
     <body>
         <h2> Pemograman Web Lanjut </h2>
-        <h3> Semangat Belajar Laravel 10 </h3>
+        <h3> semangat 1 Belajar Laravel 10 </h3>
     </body>
 </html>
